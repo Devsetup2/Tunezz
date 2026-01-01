@@ -177,6 +177,14 @@ document.addEventListener('DOMContentLoaded', function() {
           image: "https://www.deformmuzik.com/wp-content/uploads/2021/07/APSE.jpg",
           audio: "https://devsetup2.github.io/Tunes/climb.mp3"
         },
+      {
+          id: 19,
+          title: "White Lilies",
+          artist: "Muammer & Suno",
+          year: "2025",
+          image: "https://cdn2.suno.ai/dbcdeba4-893f-4870-be62-1b5eb00e3607_6b8039c6.jpeg?width=360",
+          audio: "https://devsetup2.github.io/Tunes/whitelilies.mp3"
+        },
         
       ];
 
